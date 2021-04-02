@@ -1,0 +1,42 @@
+Saranac Pale Ale,Matt Brewing Company,English Pale Ale,5.5,32
+Saranac White IPA,Matt Brewing Company,Hybrid IPA/Belgian White,6.0,50
+Saranac Adirondack Lager,Matt Brewing Company,German Amber Lager,5.5,n/a
+Saranac Black Forest,Matt Brewing Company,Bavarian Black Beer,5.3,n/a
+Saranac Legacy IPA,Matt Brewing Company,American IPA,6.5,60
+Blue Moon Belgian White,Blue Moon Brewing Company,Belgian-Style Wheat Ale,5.4,9
+Blue Moon Valencia Grove Amber,Blue Moon Brewing Company,Ale,5.9,16
+Sam Adams Boston Lager,The Boston Brewing Company,Lager,4.9,30
+Sam Adams Boston Ale,The Boston Brewing Company,Ale,5.4,34
+Sam Adams Irish Red,The Boston Brewing Company,Ale,5.8,25
+Sam Adams Octoberfest,The Boston Brewing Company,Lager,5.3,16
+Sam Adams Light,The Boston Brewing Company,Lager,4.3,10
+Sam Adams Noble Pils,The Boston Brewing Company,Lager,4.9,34
+Budweiser,Anheuser-Busch,American Style Premium Lager,5,12
+Shock Top Belgian White,Shock Top Brewing Company,Belgian-Style Blonde Ale,5.2,10
+Shock Top Raspberry Wheat,Shock Top Brewing Company,Belgian-Style Wheat Ale,5.2,10
+Landshark Lager,Margaritaville Brewing Company,Lager,4.7,10
+Guinness,Guinness & Co.,Irish Dry Stout,4.2,n/a
+Yuengling,D.G. Yuengling & Son,Lager,4.9,36
+Middle Ages Swallow Wit,Middle Ages Brewing Company,Belgian Wheat,4.8,17
+Duvel,Brouwerij Duvel Moortgat,Belgian Golden Strong Ale,8.5,32
+Old Milwaukee,Pabst Brewing Company,Lager,5,12
+Coors Light,Coors Brewing Company,American Lager,4.2,12
+Budweiser Black Crown,Anheuser-Busch,Premium Lager,6,15
+Bud Ice,Anheuser-Busch,Ice-Brewed Lager,6,12
+Bud Light,Anheuser-Busch,American Style Light Lager,4,10
+Bud Light Lime,Anheuser-Busch,American Light Flavored Lager,4,n/a
+Bud Light Platinum,Anheuser-Busch,Triple-Filtered Light Lager,6,6
+Budweiser Select,Anheuser-Busch,American Style Premium Lager,4,10
+Budweiser Select 55,Anheuser-Busch,Premium Light U.S. Lager,2.5,n/a
+Busch,Anheuser-Busch,American Style Premium Lager,5,12
+Busch Light,Anheuser-Busch,American Style Premium Lager,4,12
+Michelob,Michelob Brewing Company,American Style Premium Lager,5,18
+Michelob Light,Michelob Brewing Company,American Style Light Lager,4.3,10
+Michelob Ultra,Michelob Brewing Company,American Style Premium Lager,4.2,10
+Natural Light,Anheuser-Busch,Pale Lager,4.2,10
+Natural Ice,Anheuser-Busch,Ice-Brewed Lager,5.9,10
+Natty Daddy,Anheuser-Busch,Higher-Alcohol Light Lager,8,10
+Rolling Rock,Latrobe Brewing Company,American Style Premium Lager,4.5,9
+Rock Light,Latrobe Brewing Company,Light Lager,4.1,n/a
+Yuengling Black & Tan,D.G. Yuengling & Son,English Half & Half Style,5.2,17
+Yuengling Light,D.G. Yuengling & Son,Light Lager,3.8,8

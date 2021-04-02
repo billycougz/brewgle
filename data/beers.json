@@ -1,0 +1,437 @@
+[
+  {
+    "beerName":"Saranac Pale Ale",
+    "brewer":"Matt Brewing Company",
+    "style":"English Pale Ale",
+    "abv":5.5,
+    "ibu":"32"
+  },
+  {
+    "beerName":"Saranac White IPA",
+    "brewer":"Matt Brewing Company",
+    "style":"Hybrid IPA/Belgian White",
+    "abv":6.0,
+    "ibu":"50",
+    "location":"Utica, NY"
+  },
+  {
+    "beerName":"Saranac Adirondack Lager",
+    "brewer":"Matt Brewing Company",
+    "style":"German Amber Lager",
+    "abv":5.5,
+    "ibu":"N/A"
+  },
+  {
+    "beerName":"Saranac Black Forest",
+    "brewer":"Matt Brewing Company",
+    "style":"Bavarian Black Beer",
+    "abv":5.3,
+    "ibu":"N/A"
+  },
+  {
+    "beerName":"Saranac Legacy IPA",
+    "brewer":"Matt Brewing Company",
+    "style":"American IPA",
+    "abv":6.5,
+    "ibu":"60"
+  },
+  {
+    "beerName":"Blue Moon Belgian White",
+    "brewer":"Blue Moon Brewing Company",
+    "style":"Belgian-Style Wheat Ale",
+    "abv":5.4,
+    "ibu":"9"
+  },
+  {
+    "beerName":"Blue Moon Valencia Grove Amber",
+    "brewer":"Blue Moon Brewing Company",
+    "style":"Ale",
+    "abv":5.9,
+    "ibu":"16"
+  },
+  {
+    "beerName":"Sam Adams Boston Lager",
+    "brewer":"The Boston Brewing Company",
+    "style":"Lager",
+    "abv":4.9,
+    "ibu":"30"
+  },
+  {
+    "beerName":"Sam Adams Boston Ale",
+    "brewer":"The Boston Brewing Company",
+    "style":"Ale",
+    "abv":5.4,
+    "ibu":"34"
+  },
+  {
+    "beerName":"Sam Adams Irish Red",
+    "brewer":"The Boston Brewing Company",
+    "style":"Ale",
+    "abv":5.8,
+    "ibu":"25"
+  },
+  {
+    "beerName":"Sam Adams Octoberfest",
+    "brewer":"The Boston Brewing Company",
+    "style":"Lager",
+    "abv":5.3,
+    "ibu":"16"
+  },
+  {
+    "beerName":"Sam Adams Light",
+    "brewer":"The Boston Brewing Company",
+    "style":"Lager",
+    "abv":4.3,
+    "ibu":"10"
+  },
+  {
+    "beerName":"Sam Adams Noble Pils",
+    "brewer":"The Boston Brewing Company",
+    "style":"Lager",
+    "abv":4.9,
+    "ibu":"34"
+  },
+  {
+    "beerName":"Budweiser",
+    "brewer":"Anheuser-Busch",
+    "style":"American Style Premium Lager",
+    "abv":5,
+    "ibu":"12"
+  },
+  {
+    "beerName":"Shock Top Belgian White",
+    "brewer":"Shock Top Brewing Company",
+    "style":"Belgian-Style Blonde Ale",
+    "abv":5.2,
+    "ibu":"10"
+  },
+  {
+    "beerName":"Shock Top Raspberry Wheat",
+    "brewer":"Shock Top Brewing Company",
+    "style":"Belgian-Style Wheat Ale",
+    "abv":5.2,
+    "ibu":"10"
+  },
+  {
+    "beerName":"Landshark Lager",
+    "brewer":"Margaritaville Brewing Company",
+    "style":"Lager",
+    "abv":4.7,
+    "ibu":"10"
+  },
+  {
+    "beerName":"Guinness",
+    "brewer":"Guinness & Co.",
+    "style":"Irish Dry Stout",
+    "abv":4.2,
+    "ibu":"N/A"
+  },
+  {
+    "beerName":"Yuengling",
+    "brewer":"D.G. Yuengling & Son",
+    "style":"Lager",
+    "abv":4.9,
+    "ibu":"36"
+  },
+  {
+    "beerName":"Middle Ages Swallow Wit",
+    "brewer":"Middle Ages Brewing Company",
+    "style":"Belgian Wheat",
+    "abv":4.8,
+    "ibu":"17"
+  },
+  {
+    "beerName":"Duvel",
+    "brewer":"Brouwerij Duvel Moortgat",
+    "style":"Belgian Golden Strong Ale",
+    "abv":8.5,
+    "ibu":"32"
+  },
+  {
+    "beerName":"Old Milwaukee",
+    "brewer":"Pabst Brewing Company",
+    "style":"Lager",
+    "abv":5,
+    "ibu":"12"
+  },
+  {
+    "beerName":"Coors Light",
+    "brewer":"Coors Brewing Company",
+    "style":"American Lager",
+    "abv":4.2,
+    "ibu":"12"
+  },
+  {
+    "beerName":"Budweiser Black Crown",
+    "brewer":"Anheuser-Busch",
+    "style":"Premium Lager",
+    "abv":6,
+    "ibu":"15"
+  },
+  {
+    "beerName":"Bud Ice",
+    "brewer":"Anheuser-Busch",
+    "style":"Ice-Brewed Lager",
+    "abv":6,
+    "ibu":"12"
+  },
+  {
+    "beerName":"Bud Light",
+    "brewer":"Anheuser-Busch",
+    "style":"American Style Light Lager",
+    "abv":4,
+    "ibu":"10"
+  },
+  {
+    "beerName":"Bud Light Lime",
+    "brewer":"Anheuser-Busch",
+    "style":"American Light Flavored Lager",
+    "abv":4,
+    "ibu":"N/A"
+  },
+  {
+    "beerName":"Bud Light Platinum",
+    "brewer":"Anheuser-Busch",
+    "style":"Triple-Filtered Light Lager",
+    "abv":6,
+    "ibu":"6"
+  },
+  {
+    "beerName":"Budweiser Select",
+    "brewer":"Anheuser-Busch",
+    "style":"American Style Premium Lager",
+    "abv":4,
+    "ibu":"10"
+  },
+  {
+    "beerName":"Budweiser Select 55",
+    "brewer":"Anheuser-Busch",
+    "style":"Premium Light U.S. Lager",
+    "abv":2.5,
+    "ibu":"N/A"
+  },
+  {
+    "beerName":"Busch",
+    "brewer":"Anheuser-Busch",
+    "style":"American Style Premium Lager",
+    "abv":5,
+    "ibu":"12"
+  },
+  {
+    "beerName":"Busch Light",
+    "brewer":"Anheuser-Busch",
+    "style":"American Style Premium Lager",
+    "abv":4,
+    "ibu":"12"
+  },
+  {
+    "beerName":"Michelob",
+    "brewer":"Michelob Brewing Company",
+    "style":"American Style Premium Lager",
+    "abv":5,
+    "ibu":"18"
+  },
+  {
+    "beerName":"Michelob Light",
+    "brewer":"Michelob Brewing Company",
+    "style":"American Style Light Lager",
+    "abv":4.3,
+    "ibu":"10"
+  },
+  {
+    "beerName":"Michelob Ultra",
+    "brewer":"Michelob Brewing Company",
+    "style":"American Style Premium Lager",
+    "abv":4.2,
+    "ibu":"10"
+  },
+  {
+    "beerName":"Natural Light",
+    "brewer":"Anheuser-Busch",
+    "style":"Pale Lager",
+    "abv":4.2,
+    "ibu":"10"
+  },
+  {
+    "beerName":"Natural Ice",
+    "brewer":"Anheuser-Busch",
+    "style":"Ice-Brewed Lager",
+    "abv":5.9,
+    "ibu":"10"
+  },
+  {
+    "beerName":"Natty Daddy",
+    "brewer":"Anheuser-Busch",
+    "style":"Higher-Alcohol Light Lager",
+    "abv":8,
+    "ibu":"10"
+  },
+  {
+    "beerName":"Rolling Rock",
+    "brewer":"Latrobe Brewing Company",
+    "style":"American Style Premium Lager",
+    "abv":4.5,
+    "ibu":"9"
+  },
+  {
+    "beerName":"Rock Light",
+    "brewer":"Latrobe Brewing Company",
+    "style":"Light Lager",
+    "abv":4.1,
+    "ibu":"N/A"
+  },
+  {
+    "beerName":"Yuengling Black & Tan",
+    "brewer":"D.G. Yuengling & Son",
+    "style":"English Half & Half Style",
+    "abv":5.2,
+    "ibu":"17"
+  },
+  {
+    "beerName":"Yuengling Light",
+    "brewer":"D.G. Yuengling & Son",
+    "style":"Light Lager",
+    "abv":3.8,
+    "ibu":"8"
+  },
+  {
+    "beerName":"Utica Club",
+    "brewer":"Matt Brewing Company",
+    "style":"Pilsner",
+    "abv":5,
+    "ibu":"12"
+  },
+  {
+    "beerName":"60 Minute IPA",
+    "brewer":"Dogfish Head",
+    "style":"India Pale Ale/IPA",
+    "abv":6,
+    "ibu":"60"
+  },
+  {
+    "beerName":"Midas Touch",
+    "brewer":"Dogfish Head",
+    "style":"Ancient Ale",
+    "abv":9,
+    "ibu":"12"
+  },
+  {
+    "beerName":"90 Minute IPA",
+    "brewer":"Dogfish Head",
+    "style":"India Pale Ale/IPA",
+    "abv":9,
+    "ibu":"90"
+  },
+  {
+    "beerName":"120 Minute IPA",
+    "brewer":"Dogfish Head",
+    "style":"India Pale Ale/IPA",
+    "abv":18,
+    "ibu":"120"
+  },
+  {
+    "beerName":"#9",
+    "brewer":"Magic Hat Brewing Company",
+    "style":"English/Fruit Ale",
+    "abv":5.1,
+    "ibu":"20"
+  },
+  {
+    "beerName":"Dream Machine",
+    "brewer":"Magic Hat Brewing Company",
+    "style":"India Pale Lager/IPL",
+    "abv":5.7,
+    "ibu":"50"
+  },
+  {
+    "beerName":"Circus Boy",
+    "brewer":"Magic Hat Brewing Company",
+    "style":"American-style Hefeweizen",
+    "abv":4.5,
+    "ibu":"15"
+  },
+  {
+    "beerName":"Brooklyn Lager",
+    "brewer":"Brooklyn Brewery",
+    "style":"American Amber Lager",
+    "abv":5.2,
+    "ibu":"30"
+  },
+  {
+    "beerName":"Brooklyn Brown Ale",
+    "brewer":"Brooklyn Brewery",
+    "style":"American Brown Ale",
+    "abv":5.6,
+    "ibu":"30"
+  },
+  {
+    "beerName":"Brooklyn East India Pale Ale",
+    "brewer":"Brooklyn Brewery",
+    "style":"India Pale Ale/IPA",
+    "abv":6.9,
+    "ibu":"47"
+  },
+  {
+    "beerName":"Brooklyn Pilsner",
+    "brewer":"Brooklyn Brewery",
+    "style":"Full-malt Pilsner",
+    "abv":5.1,
+    "ibu":"33"
+  },
+  {
+    "beerName":"Brooklyn Blast!",
+    "brewer":"Brooklyn Brewery",
+    "style":"Big India Pale Ale/IPA",
+    "abv":8.4,
+    "ibu":"53"
+  },
+  {
+    "beerName":"Brooklyn Pennant Ale",
+    "brewer":"Brooklyn Brewery",
+    "style":"English-style Pale Ale",
+    "abv":5.0,
+    "ibu":"24"
+  },
+  {
+    "beerName":"Sierra Nevada Pale Ale",
+    "brewer":"Sierra Nevada Brewing Co.",
+    "style":"American-style Pale Ale",
+    "abv":5.6,
+    "ibu":"38"
+  },
+  {
+    "beerName":"Sierra Nevada Torpedo Extra IPA",
+    "brewer":"Sierra Nevada Brewing Co.",
+    "style":"American-style Extra IPA",
+    "abv":7.2,
+    "ibu":"65"
+  },
+  {
+    "beerName":"Sierra Nevada Porter",
+    "brewer":"Sierra Nevada Brewing Co.",
+    "style":"Porter",
+    "abv":5.6,
+    "ibu":"32"
+  },
+  {
+    "beerName":"Sierra Nevada Kellerweis",
+    "brewer":"Sierra Nevada Brewing Co.",
+    "style":"Wheat Ale",
+    "abv":4.8,
+    "ibu":"15"
+  },
+  {
+    "beerName":"Sierra Nevada Stout",
+    "brewer":"Sierra Nevada Brewing Co.",
+    "style":"Stout",
+    "abv":5.8,
+    "ibu":"50"
+  },
+  {
+    "beerName":"Old Chico Crystal Wheat",
+    "brewer":"Sierra Nevada Brewing Co.",
+    "style":"Light Wheat",
+    "abv":4.8,
+    "ibu":"26"
+  }
+]
